@@ -8,4 +8,4 @@ mkdir file -creating directory
 mv file dir -moving file to directory
 rm file - deleting/removing files
 rm -r file - deleting/removing directory
-cd .. - back to parent directory
+cd - - back to parent directory
