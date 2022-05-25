@@ -4,3 +4,4 @@ cd ~ - return home
 ls -l - long format list
 ls -al - list hidden files in long format
 ls -la - long format with ID
+mkdir file -creating directory
