@@ -10,3 +10,4 @@ rm file - deleting/removing files
 rm -r file - deleting/removing directory
 cd - - back to parent directory
 ls -la /dir /dir - for listing all files in different directories
+type file - to know type of a file
